@@ -10,7 +10,7 @@ Quick how-to:
 | IS | THIS | A   | TABLE? |
 |----|:----:|:---:|:------:|
 | Yes.                     |   
-
-
+This guide also in
+<a href="index.es.html">español</a>
 Hey this is Danielle from team Hippo
 ====================================
