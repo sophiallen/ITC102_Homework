@@ -14,3 +14,7 @@ Quick how-to:
 
 Hey this is Danielle from team Hippo
 ====================================
+<ul>
+<li><p>Penguin</p></li>
+<li><p>Pull Request</p></li>
+</ul>
