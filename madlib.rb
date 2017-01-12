@@ -2,6 +2,8 @@
 #finds blanks pre-tagged with <> in the text and replaces them
 #with user input, then prints the (hopefully hilarious!) result.
 
+#sample change!
+
 puts "Let's make a MadLib!"
 
 #text of the MadLib, with "blanks" tagged with required part of speech
